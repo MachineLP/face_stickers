@@ -17,4 +17,5 @@ cd fase_stickers
 
 
 效果如下：
+
   ![show](./res.png)
