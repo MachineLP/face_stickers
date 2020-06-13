@@ -7,14 +7,12 @@
 >（3）使用numba，实现实时人脸贴纸。
 
 代码运行：
-> git clone https://github.com/MachineLP/face_stickers
-
-> cd fase_stickers
-
-> 图片下测试：python test.py
-
-> 视频下测试：python video.py
-
+```
+git clone https://github.com/MachineLP/face_stickers
+cd fase_stickers
+图片下测试：python test.py
+视频下测试：python video.py
+```
 
 
 
