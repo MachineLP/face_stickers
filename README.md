@@ -24,3 +24,7 @@ cd fase_stickers
 
 
 
+
+
+
+
